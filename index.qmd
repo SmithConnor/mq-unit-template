@@ -1,0 +1,10 @@
+---
+title: "{{< var unit.code >}} {{< var unit.name >}}"
+subtitle: "{{< var unit.session >}}"
+---
+
+Convenor: {{< var unit.convenor >}} · [iLearn]({{< var unit.ilearn >}})
+
+| Week | Topic | Lecture | Advanced | SGTA | Practical |
+|------|-------|---------|----------|------|-----------|
+| 1 | … | [slides](weeks/wk01/wk01-lecture.qmd) | [slides](weeks/wk01/wk01-advanced.qmd) | [sheet](weeks/wk01/wk01-sgta.qmd) | [sheet](weeks/wk01/wk01-practical.qmd) |

@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - "weeks/**/*.qmd"
+
+website:
+  title: "UNIT0000 Unit Name"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  page-navigation: true
+
+execute:
+  freeze: auto
+  echo: true
+  warning: false
+
+lang: en-AU

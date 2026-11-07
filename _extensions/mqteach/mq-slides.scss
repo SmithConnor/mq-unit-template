@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+$mq-deep-red:   #A6192E;
+$mq-bright-red: #D6001C;
+$mq-charcoal:   #373A36;
+$mq-sand:       #EDEBE5;
+
+$body-color: $mq-charcoal;
+$link-color: $mq-deep-red;
+$presentation-heading-color: $mq-charcoal;
+$presentation-font-size-root: 34px;
+
+/*-- scss:rules --*/
+.reveal h2 {
+  border-bottom: 3px solid $mq-deep-red;
+  padding-bottom: 0.2em;
+}
+.reveal .callout { font-size: 0.8em; }
+.reveal .slide-number { color: $mq-charcoal; }
+.reveal .footer { font-size: 0.5em; color: $mq-charcoal; }
+.mq-sand { background: $mq-sand; padding: 0.5em 1em; border-radius: 6px; }

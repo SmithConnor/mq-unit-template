@@ -1,0 +1,33 @@
+---
+title: "Week __WEEK__: __TOPIC__"
+subtitle: "{{< var unit.code >}} {{< var unit.name >}} · Lecture"
+format:
+  mqteach-revealjs:
+    footer: "{{< var unit.code >}} · Week __WEEK__ lecture"
+---
+
+## Learning outcomes
+
+By the end of this lecture you should be able to:
+
+- …
+
+::: notes
+Opening (2 min): connect to last week…
+:::
+
+## Section heading
+
+Content…
+
+::: notes
+Speaker notes for this slide.
+:::
+
+## Summary
+
+- …
+
+::: notes
+Preview next week. Remind about SGTA and practical.
+:::

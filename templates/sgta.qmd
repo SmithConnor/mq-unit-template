@@ -1,0 +1,15 @@
+---
+title: "Week __WEEK__ SGTA"
+subtitle: "{{< var unit.code >}} · Revises Week __PREV__ core theory"
+format: mqteach-html
+---
+
+## Question 1
+
+Question text…
+
+::: {.content-visible when-profile="solutions"}
+::: {.callout-tip title="Solution"}
+Worked solution…
+:::
+:::

@@ -1,0 +1,13 @@
+---
+title: "Week __WEEK__ Advanced: __TOPIC__"
+subtitle: "{{< var unit.code >}} · Advanced lecture"
+format:
+  mqteach-revealjs:
+    footer: "{{< var unit.code >}} · Week __WEEK__ advanced"
+---
+
+## Going further
+
+::: notes
+Extension of the core lecture.
+:::

@@ -1,0 +1,19 @@
+---
+title: "Week __WEEK__ Practical"
+subtitle: "{{< var unit.code >}} · Excel practical"
+format: mqteach-html
+---
+
+## Data
+
+Download: [wk__WK__-data.xlsx](wk__WK__-data.xlsx){download}
+
+## Task 1
+
+Steps…
+
+::: {.content-visible when-profile="solutions"}
+::: {.callout-tip title="Solution"}
+Expected output / formula…
+:::
+:::

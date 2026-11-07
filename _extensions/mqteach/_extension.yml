@@ -1,0 +1,23 @@
+title: MQ Teaching
+author: Your Name
+version: 1.0.0
+quarto-required: ">=1.4.0"
+contributes:
+  formats:
+    revealjs:
+      theme: [default, mq-slides.scss]
+      slide-number: c/t
+      width: 1600
+      height: 900
+      transition: none
+      progress: true
+      hash: true
+      code-line-numbers: false
+      # logo: logo.png   # add official logo from MQ brand assets
+    html:
+      theme: [cosmo, mq-docs.scss]
+      toc: true
+      toc-depth: 2
+      number-sections: true
+      code-copy: true
+      embed-resources: false

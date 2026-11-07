@@ -1,0 +1,8 @@
+/*-- scss:defaults --*/
+$mq-deep-red: #A6192E;
+$mq-charcoal: #373A36;
+$primary: $mq-deep-red;
+$body-color: $mq-charcoal;
+
+/*-- scss:rules --*/
+.callout-tip.callout-titled .callout-title { font-weight: 600; }

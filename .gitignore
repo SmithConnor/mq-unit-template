@@ -1,0 +1,6 @@
+/.quarto/
+/_site/
+/_site-solutions/
+*_files/
+.DS_Store
+~$*.xlsx
